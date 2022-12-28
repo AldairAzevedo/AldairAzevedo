@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD8D37&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fd8d37&size=35&center=true&vCenter=true&width=1000&lines=HEY!+I'm+Vinicius+Lazzeri!;I'm+24+years+old!;I'm+from+Brazil;I'm+a+Computer+Engineering+student;and+I'm+based+in+Manaus!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
