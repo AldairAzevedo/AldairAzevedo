@@ -34,5 +34,6 @@
 
 ### Studying in this moment:
 ![TypeScript](https://img.shields.io/badge/TypeScript-6495ED?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C#-D02090?style=for-the-badge&logo=c#&logoColor=white)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
