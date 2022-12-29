@@ -28,7 +28,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-DAA520?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![T-SQL](https://img.shields.io/badge/T-SQL-1E90FF?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-FF0000?style=for-the-badge&logo=amazonwebservices&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-FFD700?style=for-the-badge&logo=amazonwebservices&logoColor=white)&nbsp;
 ![XD](https://img.shields.io/badge/XD-FF0000?style=for-the-badge&logo=adobexd&logoColor=white)&nbsp;
 
 ### Studying in this moment:
