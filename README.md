@@ -30,6 +30,7 @@
 ![T-SQL](https://img.shields.io/badge/T-SQL-1E90FF?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-FFD700?style=for-the-badge&logo=amazon&logoColor=white)&nbsp;
 ![XD](https://img.shields.io/badge/XD-B03060?style=for-the-badge&logo=adobexd&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-2E8B57?style=for-the-badge&logo=arduinod&logoColor=white)&nbsp;
 
 ### Studying in this moment:
 ![TypeScript](https://img.shields.io/badge/TypeScript-6495ED?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
