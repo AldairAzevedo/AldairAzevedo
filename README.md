@@ -26,6 +26,6 @@
 ![Node](https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 ### Studying in this moment:
-![TypeScript](https://img.shields.io/badge/TypeScript-DD0031?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-6495ED?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
