@@ -25,6 +25,7 @@
 ![React](https://img.shields.io/badge/React-00BFFF?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-DAA520?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PL/SQL](https://img.shields.io/badge/PL/SQL-DAA520?style=for-the-badge&logo=pl/sql&logoColor=white)&nbsp;
 
 ### Studying in this moment:
 ![TypeScript](https://img.shields.io/badge/TypeScript-6495ED?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
