@@ -31,6 +31,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-DAA520?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![T-SQL](https://img.shields.io/badge/T-SQL-1E90FF?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/mongodb-0A822A?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![NGINX](https://img.shields.io/badge/nginx-0A822A?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-FFD700?style=for-the-badge&logo=amazon&logoColor=white)&nbsp;
 ![XD](https://img.shields.io/badge/XD-B03060?style=for-the-badge&logo=adobexd&logoColor=white)&nbsp;
