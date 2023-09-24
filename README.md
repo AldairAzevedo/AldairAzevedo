@@ -24,7 +24,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-6495ED?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-00BFFF?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Next](https://img.shields.io/badge/React-00BFFF?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Nest](https://img.shields.io/badge/nestJS-cc2f3f?style=for-the-badge&logo=nest.js&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-DAA520?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
