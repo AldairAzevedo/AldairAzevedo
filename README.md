@@ -31,10 +31,9 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-0A822A?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![NGINX](https://img.shields.io/badge/nginx-0A822A?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-FFD700?style=for-the-badge&logo=amazon&logoColor=white)&nbsp;
-![XD](https://img.shields.io/badge/XD-B03060?style=for-the-badge&logo=adobexd&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-2E8B57?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 
 ### Studying in this moment:
-![ReactNative](https://img.shields.io/badge/ReactNative-00BFFF?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Java Spring](https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=spring&logoColor=80ea6e)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
