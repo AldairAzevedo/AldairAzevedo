@@ -23,19 +23,45 @@
 
 <br/>
 
-### 👨‍💻 About Me
+### 👨‍💻 Executive Summary
 
-- 🎓 **Computer Engineer** (Uninorte) with a **Postgraduate Degree in Software Architecture** (FIAP - 360h).
+- 🎓 **Computer Engineer** (Uninorte) & **Postgraduate in Software Architecture** (FIAP - 360h).
 - 💼 Working at **Samsung Eletrônica da Amazônia** as Full-Cycle Developer & Security Analyst.
-- 🏗️ Deep expertise in **Hexagonal Architecture, Microservices, Clean Architecture, Clean Code & AppSec**.
-- 🚀 Specialized in building high-performance solutions with **TypeScript, Java, NestJS, Spring Boot, Next.js & React Native**.
-- ☁️ Cloud & DevOps practitioner: **AWS Serverless, Docker, Kubernetes, Terraform, Jenkins, CI/CD, Prometheus & Grafana**.
-- 🧠 Actively expanding skills into **Python & Artificial Intelligence**.
+- 🏗️ Proven track record designing enterprise-grade solutions using **Hexagonal Architecture, Microservices, Clean Architecture & AppSec**.
+- 🚀 Deep technical proficiency in **TypeScript, Java, NestJS, Spring Boot, Next.js & React Native**.
+- ☁️ Infrastructure & DevOps mindset: **AWS Serverless, Docker, Kubernetes, Terraform, CI/CD, Prometheus & Grafana**.
+- 🧠 Continuously innovating: actively exploring **Python & Applied Artificial Intelligence**.
 - 📍 Based in **Manaus, Amazonas — Brazil** 🇧🇷.
 
 ---
 
-### 📊 GitHub Analytics
+### 🏛️ System Design & Architectural Principles
+
+```
+           +-------------------------------------------------------+
+           |                   EXTERNAL ADAPTERS                   |
+           |   [ Next.js / React Native ]    [ API Gateway / Cloud ]   |
+           +---------------------------+---------------------------+
+                                       |
+           +---------------------------v---------------------------+
+           |                APPLICATION CORE (PORTS)               |
+           |    [ NestJS / Spring Boot ] <---> [ Domain Services ] |
+           +---------------------------+---------------------------+
+                                       |
+           +---------------------------v---------------------------+
+           |                 INFRASTRUCTURE ADAPTERS               |
+           |   [ SQL / NoSQL DBs ]   [ RabbitMQ ]   [ AppSec/Auth ]|
+           +-------------------------------------------------------+
+```
+
+- 🔷 **Domain-Centric & Decoupled Architecture:** Strict application of **Hexagonal Architecture (Ports & Adapters)** and **DDD** to ensure domain logic remains decoupled from frameworks, databases, and third-party APIs.
+- 🔷 **Resilience & Asynchronous Communication:** Designing distributed event-driven systems with **RabbitMQ** and managing distributed transaction consistency with patterns like **SAGA**.
+- 🔷 **Security-First Engineering (AppSec):** Embedding security across the entire software development lifecycle (SDLC) — from OWASP Top 10 mitigation and role-based access control (RBAC) to automated vulnerability auditing.
+- 🔷 **Observability & Reliability:** Zero-blindspot production monitoring with **Prometheus, Grafana, and Zabbix**, enforcing SLAs/SLOs through structured metrics and distributed tracing.
+
+---
+
+### 📊 GitHub Activity & Metrics
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AldairAzevedo&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Aldair Azevedo GitHub Stats" /> 
@@ -46,9 +72,23 @@
   <img width="98%" src="https://streak-stats.demolab.com/?user=AldairAzevedo&theme=dark&hide_border=true&border_radius=8&background=0d1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="Aldair Azevedo GitHub Streak" />
 </div>
 
+<div align="center">
+  <sub>🔒 <i><b>Enterprise Notice:</b> A significant portion of my commercial production commits, code reviews, and architectural deliverables are conducted within private enterprise repositories (Samsung / Internal On-Premise Git) under non-disclosure agreements.</i></sub>
+</div>
+
 ---
 
-### 🛠️ Languages & Frameworks
+### 🚀 Featured Architecture Blueprints
+
+| Blueprint / Repository | Architecture & Stack | Key Highlights |
+| :--- | :--- | :--- |
+| 🛡️ **Factory Access Control Hub** | `Next.js` · `NestJS` · `TypeScript` · `AppSec` | Industrial-scale access management with strict security boundaries, PWA support, and real-time validation. |
+| ⚡ **Microservices Event-Driven API** | `Spring Boot` · `RabbitMQ` · `Java` · `Docker` | Asynchronous transaction orchestration, SAGA pattern implementation, and resilient retry mechanisms. |
+| 📱 **Cross-Platform Mobile App** | `React Native` · `TypeScript` · `Tailwind` | High-performance mobile client with offline-first capabilities and secure token management. |
+
+---
+
+### 🛠️ Tech Stack & Tooling
 
 #### 🌐 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -57,6 +97,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![NoSQL](https://img.shields.io/badge/NoSQL-4E2A84?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;
 
 #### ⚙️ Backend & Frameworks
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
